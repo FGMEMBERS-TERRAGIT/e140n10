@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Airport/ndb.ac 144.736917 13.454936 182.1 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 144.711389 13.453333 44.75 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 144.712778 13.433056 133.97 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 144.713333 13.442778 119.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 144.713611 13.442222 112.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 144.730556 13.462778 20.07 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 144.733056 13.453611 -3.27 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 144.748333 13.445 -38.7 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 144.733333 13.4545 199.79 180
+OBJECT_SHARED Models/Airport/marker.ac 144.711686 13.443109 180.21 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 144.685278 13.462222 -437.52 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 144.691389 13.417222 -419.52 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 144.6665027 13.442059 2.96 104.06
