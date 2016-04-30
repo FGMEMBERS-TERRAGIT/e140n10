@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+
+  <path>PGUA_sign.ac</path>
+  
+  <effect>
+    <inherits-from>/Effects/model-combined-deferred</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <texture n="3">
+	<image>PGUA_sign_lightmap.png</image>
+      </texture>
+    </parameters>
+    <object-name>Cube</object-name>
+  </effect>
+  
+</PropertyList>
